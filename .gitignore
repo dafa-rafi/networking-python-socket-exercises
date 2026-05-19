@@ -1,0 +1,34 @@
+﻿# dependencies
+node_modules/
+vendor/
+venv/
+.venv/
+
+# build/generated
+dist/
+build/
+.next/
+coverage/
+__pycache__/
+.pytest_cache/
+.dart_tool/
+obj/
+bin/
+*.class
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.log
+*.layout
+*.depend
+
+# local environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
